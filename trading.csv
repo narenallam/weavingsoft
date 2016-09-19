@@ -1,0 +1,10 @@
+Trader_B,Stock_Z,400,Sell
+Trader_B,Stock_X,200,Sell
+Trader_E,Stock_Z,500,Sell
+Trader_A,Stock_Z,100,Sell
+Trader_B,Stock_Z,900,Buy
+Trader_E,Stock_Z,600,Sell
+Trader_A,Stock_Z,500,Buy
+Trader_B,Stock_X,700,Sell
+Trader_D,Stock_Z,500,Buy
+Trader_D,Stock_X,700,Buy
